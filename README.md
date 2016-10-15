@@ -3,7 +3,7 @@ Simple logic Java game
 
 # Synopsis
 
-The "game" original idea was taken from a MOOC from the University of Helsinki. I took the idea and developed it further adding new features and stuff. It's a simple program but it involves almost everything of Java basics. It also set the opportunity to learn how GitHub works and learn more about how to develop projects and software. I'd appreciate any improvement you can tell me or what I can do better. I'm starting to code so not that into big deals but I learn fast :)
+The "game" original idea [v1.0.0](https://github.com/dfzunigah/Genius-Computer/releases/tag/v1.0.0) was taken from a MOOC from the University of Helsinki. I took the idea and developed it further adding new features and stuff. It's a simple program but it involves almost everything of Java basics. It also set the opportunity to learn how GitHub works and learn more about how to develop projects and software. I'd appreciate any improvement you can tell me or what I can do better. I'm starting to code so not that into big deals but I learn fast :)
 
 # Motivation
 
