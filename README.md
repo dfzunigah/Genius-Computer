@@ -1,10 +1,6 @@
 # Genius-Computer
 Simple logic Java game
 
-GuessIt-Game
-
-Java simple game.
-
 # Synopsis
 
 The "game" original idea was taken from a MOOC from the University of Helsinki. I took the idea and developed it further adding new features and stuff. It's a simple program but it involves almost everything of Java basics. It also set the opportunity to learn how GitHub works and learn more about how to develop projects and software. I'd appreciate any improvement you can tell me or what I can do better. I'm starting to code so not that into big deals but I learn fast :)
@@ -19,7 +15,7 @@ Releases include the source code of the project and an aditional .JAR file, so n
 
 # API Reference
 
-Documentation of the project can be found [here]()
+Documentation of the project can be found [here](https://github.com/dfzunigah/Genius-Computer/)
 
 If you'd like to contribute to the project give me a shoutout at Twitter or here's a [link](https://github.com/dfzunigah/Genius-Computer) to the GitHub project. All ideas are welcomed :)
 
@@ -29,7 +25,7 @@ The program has been tested and all visible bugs have been removed, anyways if y
 
 # Contributors
 
- - Daniel [Twitter](twitter.com/dfzunigah) / [Instagram] (instagram.com/dfzunigah)
+ - Daniel [Twitter](https://twitter.com/dfzunigah) / [Instagram] (https://instagram.com/dfzunigah)
 
 # License
 
