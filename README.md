@@ -15,7 +15,7 @@ Releases include the source code of the project and an aditional .JAR file, so n
 
 # API Reference
 
-Documentation of the project can be found [here](https://github.com/dfzunigah/Genius-Computer/)
+Documentation of the project can be found [here](https://github.com/dfzunigah/Genius-Computer/blob/master/Documentation.pdf)
 
 If you'd like to contribute to the project give me a shoutout at Twitter or here's a [link](https://github.com/dfzunigah/Genius-Computer) to the GitHub project. All ideas are welcomed :)
 
